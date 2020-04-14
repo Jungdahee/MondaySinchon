@@ -1,8 +1,8 @@
 import java.io.*;
 import java.util.Stack;
 
+// 수행 시간 1100ms
 public class Jungdahee_BOJ_5397_키로거 {
-	// 수행 시간 1100ms
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// 입력 데이터 받을 준비
